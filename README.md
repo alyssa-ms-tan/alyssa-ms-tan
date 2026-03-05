@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-My name is Alyssa, and I am a 3rd year BS Computer Science, currently interested in developing new software. This account is pretty new since I had to switch out my old one that was connected to my actual school email.
+My name is Alyssa, and I am a 3rd year BS Computer Science, currently interested in developing new software. 
+This account is pretty new since I had to switch out my old one, which was connected to my actual school email.
 
 - 🔭 I’m currently working on developing a route optimizer web app to help students in my campus travel more efficiently, displaying the shortest route using djikstras.
 
