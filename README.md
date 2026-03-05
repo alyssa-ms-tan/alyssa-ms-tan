@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 
+
+My name is Alyssa, and I am a 3rd year BS Computer Science, currently interested in developing new software.
+
+- 🔭 I’m currently working on developing a route optimizer web app to help students in my campus travel more efficiently, displaying the shortest route using djikstras.
+
 <!--
 **alyssa-ms-tan/alyssa-ms-tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
